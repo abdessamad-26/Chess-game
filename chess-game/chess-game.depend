@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1762435105 source:c:\users\lenovo\onedrive\bureau\chess-game\main.cpp
+	<windows.h>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<cmath>
+
